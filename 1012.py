@@ -1,3 +1,4 @@
+#https://www.acmicpc.net/problem/1012
 #BFS
 dxy = [(0,1),(0,-1),(1,0),(-1,0)]
 
